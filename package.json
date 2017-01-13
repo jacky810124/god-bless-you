@@ -1,0 +1,17 @@
+{
+  "name": "god-bless",
+  "version": "1.0.0",
+  "description": "God bless you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacky810124 <jacky810124@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
