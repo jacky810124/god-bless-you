@@ -40,4 +40,4 @@ bless()
 
 # Thanks
 
-Thanks [edokeh]('https://gist.github.com/edokeh/7580064') provide the beautiful image.
+Thanks [edokeh](https://gist.github.com/edokeh/7580064) provide the beautiful image.
