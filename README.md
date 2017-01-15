@@ -11,7 +11,9 @@ npm install god-bless --save
 ```javascript
 const bless = require('god-bless')
 
+// Or you can use bless('buddha') , will get same result
 bless()
+
 // Result:
 //                   _oo0oo_
 //                  o8888888o
@@ -36,6 +38,43 @@ bless()
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //
 //                No bug forever
+
+// Or you can decide which you want to show
+
+bless('jesus')
+// The result will be:
+//               +------+
+//               |      |
+//               |      |
+// +-------------+      +--------------+
+// |      o      ~Ƨ~~Ƨ~S~    o         |
+// |      \\    s⎝ _ _ ⎠ S  //         |
+// +-------\\--SS \___/ ȜS-//----------+
+//           ⎝\S  _| |_ Ȝs/⎠
+//            ⎝ \/     \/ ⎠
+//             \         /
+//              ⎝ | _ | ⎠
+//              ⎝ | _ | ⎠
+//              ⎝_______⎠
+//              |=======|
+//             |⎝       ⎠|
+//             |         |
+//              ⎝  /\   ⎠
+//              |  ⎛⎞   |
+//               ⎝ ⎛⎞  ⎠
+//              || ⎛⎞  |
+//              || || ||
+//              || || ||
+//              ||⎠  ⎝||
+//              |⎝⎠  ⎝⎠|
+//              |      |
+//              |      |
+//              +------+
+//
+//
+//     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+//          No bug forever
 ```
 
 # Thanks
